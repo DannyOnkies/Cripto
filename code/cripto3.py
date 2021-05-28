@@ -1,6 +1,6 @@
 """
 CIFRATURA MONOALFABETICA CASUALE
-CRIPTARE UNA PAROLA (pag 451)
+CRIPTARE UNA PAROLA
 ======================================
 # DATI RICHIESTI SULLA RIGA DI COMANDO
 # 1 - nome script   - argv[0]
