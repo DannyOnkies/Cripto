@@ -5,6 +5,11 @@ With this method you can encrypt a single text or a text file.
 You use the prompt command line by passing the required values to it.
 You can ask for help with the -h option 
 
+
+https://user-images.githubusercontent.com/80686975/120042314-1f2a3d80-c00a-11eb-8500-c17bbac08e68.mp4
+
+
+
 Mode -ENCRYPT-
 ------------------
 The script returns text consisting of only letters
