@@ -1,6 +1,10 @@
 # Crypto
 Random mono-alphabetic encryption
 
+With this method you can encrypt a single text or a text file. 
+You use the prompt command line by passing the required values to it.
+You can ask for help with the -h option 
+
 Mode -ENCRYPT-
 ------------------
 The script returns text consisting of only letters
